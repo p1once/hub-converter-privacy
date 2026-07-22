@@ -1168,10 +1168,10 @@
       de: 'Hub Converter - Datenschutzerklärung'
     },
     'Politique de confidentialité': { en: 'Privacy policy', es: 'Política de privacidad', de: 'Datenschutzerklärung' },
-    'Dernière mise à jour : 14 juillet 2026': {
-      en: 'Last updated: July 14, 2026',
-      es: 'Última actualización: 14 de julio de 2026',
-      de: 'Letzte Aktualisierung: 14. Juli 2026'
+    'Dernière mise à jour : 22 juillet 2026': {
+      en: 'Last updated: July 22, 2026',
+      es: 'Última actualización: 22 de julio de 2026',
+      de: 'Letzte Aktualisierung: 22. Juli 2026'
     },
     'Hub Converter convertit des unités, des devises et des cryptomonnaies. L’extension ne crée aucun compte, n’affiche aucune publicité et n’utilise aucun outil d’analyse ou de suivi.': {
       en: 'Hub Converter converts units, currencies, and cryptocurrencies. The extension creates no account, displays no ads, and uses no analytics or tracking tools.',
@@ -1221,6 +1221,12 @@
       en: 'Access to web pages lets Hub Converter detect selected values locally and display the widget without being opened in every tab. Selected text is not sent to the publisher or rate providers. Storage and alarm permissions are used for preferences, optional history, and periodic rate updates.',
       es: 'El acceso a las páginas web permite detectar localmente los valores seleccionados y mostrar el widget sin abrir Hub Converter en cada pestaña. El texto seleccionado no se envía al editor ni a los proveedores de tipos. Los permisos de almacenamiento y alarmas se utilizan para las preferencias, el historial opcional y las actualizaciones periódicas.',
       de: 'Der Zugriff auf Webseiten ermöglicht die lokale Erkennung ausgewählter Werte und die Anzeige des Widgets, ohne Hub Converter in jedem Tab zu öffnen. Ausgewählter Text wird weder an den Herausgeber noch an Kursanbieter gesendet. Speicher- und Alarmberechtigungen dienen Einstellungen, optionalem Verlauf und regelmäßigen Kursaktualisierungen.'
+    },
+    'Utilisation limitée': { en: 'Limited use', es: 'Uso limitado', de: 'Eingeschränkte Nutzung' },
+    'Hub Converter utilise les informations accessibles via les API Chrome et Firefox uniquement pour fournir sa fonction de conversion. Ces informations ne sont ni vendues, ni utilisées à des fins publicitaires, de profilage, de solvabilité ou pour une finalité sans rapport avec cette fonction. Cette utilisation respecte le règlement relatif aux données utilisateur du Chrome Web Store ainsi que les règles applicables de Mozilla, y compris les exigences d’utilisation limitée.': {
+      en: 'Hub Converter uses information accessible through Chrome and Firefox APIs solely to provide its conversion functionality. This information is not sold or used for advertising, profiling, creditworthiness, or any purpose unrelated to this functionality. This use complies with the Chrome Web Store User Data Policy and applicable Mozilla policies, including Limited Use requirements.',
+      es: 'Hub Converter utiliza la información accesible mediante las API de Chrome y Firefox únicamente para proporcionar su función de conversión. Esta información no se vende ni se utiliza con fines publicitarios, de elaboración de perfiles, de solvencia crediticia ni para ningún fin ajeno a esta función. Este uso cumple la Política de Datos de Usuario de Chrome Web Store y las políticas aplicables de Mozilla, incluidos los requisitos de Uso limitado.',
+      de: 'Hub Converter verwendet die über Chrome- und Firefox-APIs zugänglichen Informationen ausschließlich zur Bereitstellung seiner Umrechnungsfunktion. Diese Informationen werden weder verkauft noch für Werbung, Profilbildung, Bonitätsbewertung oder andere, nicht mit dieser Funktion zusammenhängende Zwecke verwendet. Diese Nutzung entspricht der Nutzerdatenrichtlinie des Chrome Web Store und den geltenden Mozilla-Richtlinien einschließlich der Anforderungen zur eingeschränkten Nutzung.'
     },
     'Assistance': { en: 'Support', es: 'Asistencia', de: 'Support' },
     'Pour une question ou un signalement, utilisez la section d’assistance de la fiche officielle depuis laquelle vous avez installé l’extension.': {
